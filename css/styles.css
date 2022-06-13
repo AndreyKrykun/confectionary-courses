@@ -1,0 +1,69 @@
+.page-header {
+    border-bottom: 1px;
+    border-color: black;
+    background-color: teal;
+}
+
+ul {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+
+.main-nav {
+    display: flex;
+    align-items: center;
+}
+
+.header__titel {
+    margin-right: 150px;
+}
+
+.header-logo {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.header__image {
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+.site-nav__list {
+    display: flex;
+}
+
+.site-nav__item {
+    margin-right: 30px;
+} 
+
+.site-nav__link {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.courses__titel,
+.venera__titel,
+.cakes__titel,
+.item__text {
+    text-align: center;
+}
+
+.item__text {
+    font-size: 30px;
+}
+
+.cakes__item {
+    margin-bottom: 50px;
+}
+
+.iframe__video {
+    margin-right: 150px;
+    margin-left: 20px;
+}
+
+     
